@@ -6,7 +6,7 @@
 
 - I'm looking to collaborate on **Web development projects**
 
-- I'm currently learning **Figma**
+- I'm currently learning **Angular and TailwindCSS**
 
 - How to reach me: **ivan.davila.2003@gmail.com**
 
