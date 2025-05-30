@@ -2,11 +2,13 @@
   <img src="https://i.pinimg.com/originals/30/0f/da/300fda8f83b5db30533a5fb47c48fd62.gif" alt="masterhead" width="100%">
 </p>
 <h3 align="center">Hi! I'm Daphish, and I'm a computer science student that enjoys design and web development. I'm interested in continuing to learn more about these areas as well as AI.</h3>
+
+<h3 align="center">I'm interested in game jams too! ^^</h3>
 <img align="right" alt="Code" width="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Ryc2t1dXM1ZjVqZG40aG5pNjFpdWgyZTdlbnB5NWNzY3lzc2ZjNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pEuD18F5xjR9SNVmYz/giphy.webp">
 
 - I'm looking to collaborate on **Web development projects**
 
-- I'm currently learning **Angular and TailwindCSS**
+- I'm currently learning **Python**
 
 - How to reach me: **ivan.davila.2003@gmail.com**
 
