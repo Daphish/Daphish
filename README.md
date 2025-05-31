@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="center">Hi! I'm Daphish, and I'm a computer science student that enjoys design and web development. I'm interested in continuing to learn more about these areas as well as AI.<br><br>I'm interested in game jams too! ^^</h3>
+<h3 align="center">Hi! I'm Daphish, and I'm a computer science student that enjoys design and web development. I'm interested in continuing to learn more about these areas as well as AI.<br><br>I'm kinda new to game jams too! ^^</h3>
 
 - I'm looking to collaborate on **Web development projects**
 
@@ -19,7 +19,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/3b/a3/4c/3ba34c179e34f483a7be4fdfae588756.gif" />
+<img align="right" height="200" src="https://i.pinimg.com/originals/3b/a3/4c/3ba34c179e34f483a7be4fdfae588756.gif" />
 
 ###
 
@@ -98,6 +98,10 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Daphish/Daphish/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Daphish/Daphish/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Daphish/Daphish/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Daphish/Daphish/output/snake.svg" alt="Snake animation" />
+</picture>
 
 ###
