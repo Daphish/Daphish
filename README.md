@@ -14,7 +14,7 @@
 
 - I'm currently learning **Python**
 
-- Master at LoL
+- Master in **LoL**
 
 ###
 
@@ -29,11 +29,8 @@
 
 ###
 
-<img align="right" height="200" src="https://i.pinimg.com/originals/3b/a3/4c/3ba34c179e34f483a7be4fdfae588756.gif" />
-
-###
-
 <div align="left">
+  <img align="right" height="300" src="https://i.pinimg.com/originals/3b/a3/4c/3ba34c179e34f483a7be4fdfae588756.gif" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -93,7 +90,7 @@
 
 ###
 
-<div align="left">
+<div>
   <a href="https://www.instagram.com/notdaphish/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
