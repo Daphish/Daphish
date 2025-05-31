@@ -30,7 +30,7 @@
 ###
 
 <div align="left">
-  <img align="right" height="300" src="https://i.pinimg.com/originals/3b/a3/4c/3ba34c179e34f483a7be4fdfae588756.gif" />
+  <img align="right" height="200" src="https://i.pinimg.com/originals/3b/a3/4c/3ba34c179e34f483a7be4fdfae588756.gif" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
