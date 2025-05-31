@@ -85,7 +85,9 @@
 
 ###
 
-<img align="center" height="300" src="https://i.pinimg.com/originals/3b/a3/4c/3ba34c179e34f483a7be4fdfae588756.gif" />
+<div align="center">
+  <img height="300" src="https://i.pinimg.com/originals/3b/a3/4c/3ba34c179e34f483a7be4fdfae588756.gif" />
+</div>
 
 ###
 
